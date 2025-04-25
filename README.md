@@ -1,4 +1,4 @@
-![](assets/projet2.png)
+![](assets/migration2.png)
 # 🚀 Migration RDS vers RemoteApp
 
 Projet réalisé au sein de l'entreprise **Agoravita** pour le compte du client *******, réseau de plus de 170 agences d'intérim.
