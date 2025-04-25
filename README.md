@@ -1,11 +1,11 @@
 ![](assets/projet2.png)
 # 🚀 Migration RDS vers RemoteApp
 
-Projet réalisé au sein de l'entreprise **Agoravita** pour le compte du client **Temporis**, réseau de plus de 170 agences d'intérim.
+Projet réalisé au sein de l'entreprise **Agoravita** pour le compte du client *******, réseau de plus de 170 agences d'intérim.
 
 ## 🎯 Objectif
 
-Optimiser l'accès aux applications métiers critiques (Tempo, Banco, Mikado) via **RemoteApp** pour :
+Optimiser l'accès aux applications métiers critiques via **RemoteApp** pour :
 
 - Réduire la latence et les ralentissements lors des jours de paie
 - Diminuer le nombre de tickets de support liés aux sessions RDS
